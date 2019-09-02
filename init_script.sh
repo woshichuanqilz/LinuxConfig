@@ -1,3 +1,11 @@
+airtest setting
+1. install pocoui
+2. install airtest
+
+
+autojump not found
+https://github.com/wting/autojump/issues/569
+
 install anaconda
 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 
